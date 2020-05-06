@@ -14,9 +14,9 @@
     
     <item>
       <title>J. Walker Blackston, python and board game novice, tries Dungeons and Dragons</title>
-      <link>/post/2019-05-26-walker-plays-dd/</link>
+      <link>/blog/j.-walker-blackston-python-and-board-game-novice-tries-dungeons-and-dragons/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-05-26-walker-plays-dd/</guid>
+      <guid>/blog/j.-walker-blackston-python-and-board-game-novice-tries-dungeons-and-dragons/</guid>
       <description>&lt;p&gt;Today I played roughly 4+ hours of what became my first Dungeons and Dragons campaign. High school me rolls his eyes, but he can shove it because I am both smarter and stronger than he is.&lt;/p&gt;
 &lt;p&gt;In all seriousness, I see the appeal. The genuine joy you experience when hilarious shit happens to you or your buddies ios rarely duplicated. I don&amp;rsquo;t expect to be swapping my gym membership for a D4 games budget any time soon (a local D&amp;amp;D hangout), but I&amp;rsquo;ll be damned if I didn&amp;rsquo;t have a blast and will continue with this campaign occasionally.&lt;/p&gt;
 &lt;p&gt;Importantly, this experience brought me an idea for my first &amp;ldquo;personal project&amp;rdquo; to write in python. I realized this when thinking about how traits and turns are structured. To the un-churched, nearly everything in D&amp;amp;D revolves around a series of multi-sided die. A few are 20-sided (or &amp;ldquo;d20&amp;rdquo;), where others are d6 or d4 etc., all with equal probability of rolling. These rolls dictate player traits, attack abilities, and any other special attributes related to your character arc.&lt;/p&gt;
@@ -56,9 +56,9 @@ I got the first iteration of this to run! Holy cow that felt cool. But then I go
     
     <item>
       <title>J. Walker Blackston, aspiring data scientist, Designs summer curriculum</title>
-      <link>/post/2019-05-25-walker-designs-curriculum/</link>
+      <link>/blog/j.-walker-blackston-aspiring-data-scientist-designs-summer-curriculum/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-05-25-walker-designs-curriculum/</guid>
+      <guid>/blog/j.-walker-blackston-aspiring-data-scientist-designs-summer-curriculum/</guid>
       <description>&lt;p&gt;Last time we spoke, I was trying to grasp how functions worked, failing miserably to get a web scraper up and running, and suffering from the general malaise of an over-educated mid-20&amp;rsquo;s male who stares at his phone too much.&lt;/p&gt;
 &lt;p&gt;Beyond the more existential concerns, I have decided (with the help of my lovely girlfriend) to design a mini summer course of self-study. Thanks to MIT&amp;rsquo;s open courseware, I will take my series of intros to computation and computer science (with a focus in python), algorithms, and potentially some dedicated software developmennt coursework. While many seem to disagree about the best approach for learning something like programming, I will go with the prevailing wisdom that simpler is better in this regard. Lectures, exams, paper, pencil, and whiteboards- the hard and boring way. I will limit my use of a browser as that can be distracting. This may not directly feed into the didactic goals of my PhD, but it will be important that I sharpen these skills for the eventual job search in data science (if academic epidemiology doesn&amp;rsquo;t take shape).&lt;/p&gt;
 &lt;p&gt;By the end of June, I hope to have completed 6.0001 and 6.0002, with the goal of more concrete theoretical understanding of how programs work.&lt;/p&gt;
@@ -68,9 +68,9 @@ I got the first iteration of this to run! Holy cow that felt cool. But then I go
     
     <item>
       <title>J. Walker Blackston, aspring data scientist, Struggles with functions for cleaning data</title>
-      <link>/post/2019-05-23-walker-blackston-tries-more-functions/</link>
+      <link>/blog/j.-walker-blackston-aspring-data-scientist-struggles-with-functions-for-cleaning-data/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-05-23-walker-blackston-tries-more-functions/</guid>
+      <guid>/blog/j.-walker-blackston-aspring-data-scientist-struggles-with-functions-for-cleaning-data/</guid>
       <description>&lt;p&gt;Well, this morning I worked through a few guided phases of DataQuest&amp;rsquo;s Python For Data Science project which seeks to analyze app data from the Google Play and iOS Apple Stores.&lt;/p&gt;
 &lt;p&gt;The project, while outwardly simple, contains many steps that are common to data science. To successfully import and clean our data, we needed to create some personalized functions that can handle our specific needs. In this case, it was the need to identify non-English characters (based on ASCII indexing) and scrub duplicates from our data at the same time. We made some really handy functions for this, the first being a data exploration tool that will provide spaces between some highlighted rows and count/print the number of columns and rows in the set:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def explore_data(dataset, start, end, rows_cols = False):
@@ -115,9 +115,9 @@ for dat in data:
     
     <item>
       <title>J. Walker Blackston, utter programming novice, Starts learning python for data science</title>
-      <link>/post/2019-05-21-python_lessons/</link>
+      <link>/blog/j.-walker-blackston-utter-programming-novice-starts-learning-python-for-data-science/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-05-21-python_lessons/</guid>
+      <guid>/blog/j.-walker-blackston-utter-programming-novice-starts-learning-python-for-data-science/</guid>
       <description>&lt;p&gt;As I am still launching this website and learning what it does (and more often, does not do) I am reminded of the vast interconnectedness of programming languages.
 No language can truly be learned in isolation&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Take this blog for example. In order for me to demonstrate what I learn, I need to understand how markdown will process my commands. I have to learn its basics before I can demonstrate myself learning the basics of python with in-line code. Confused yet?&lt;/p&gt;
@@ -130,9 +130,9 @@ No language can truly be learned in isolation&amp;hellip;&lt;/p&gt;
     
     <item>
       <title>J. Walker Blackston, utter programming novice, launches website</title>
-      <link>/post/2019-05-19-walker-blackston-site-launched/</link>
+      <link>/blog/j.-walker-blackston-utter-programming-novice-launches-website/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-05-19-walker-blackston-site-launched/</guid>
+      <guid>/blog/j.-walker-blackston-utter-programming-novice-launches-website/</guid>
       <description>&lt;p&gt;Well.
 Finally got around to putting this old website together. Neat thing about it - powered by 
 &lt;a href=&#34;http://jekyllrb.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
